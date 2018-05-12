@@ -1,0 +1,5 @@
+
+#my-task:hover {
+	cursor: pointer;
+	text-decoration: line-through;
+}
